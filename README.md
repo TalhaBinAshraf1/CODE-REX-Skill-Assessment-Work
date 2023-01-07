@@ -1,4 +1,4 @@
 # CODE-REX-Skill-Assesment-Work
-###Includes:
-###1.  Manual Test Cases for Daraz Sign Up Process.
-###2.  Daraz Signup Process Automation Steps. 
+<p>Includes:</p>
+1.  Manual Test Cases for Daraz Sign Up Process</br>
+2.  Daraz Signup Process Automation Steps. </br>
