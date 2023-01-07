@@ -1,2 +1,4 @@
 # CODE-REX-Skill-Assesment-Work
-This is a skill assessment repository:  
+###Includes:
+#####1.  Manual Test Cases for Daraz Sign Up Process.
+#####2.  Daraz Signup Process Automation Steps. 
